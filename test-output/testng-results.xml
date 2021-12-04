@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="2861" started-at="2021-11-29T00:28:46 CST" finished-at="2021-11-29T00:28:49 CST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="2861" started-at="2021-11-29T00:28:46 CST" finished-at="2021-11-29T00:28:49 CST">
+      <class name="session5TestNG.Test1">
+        <test-method status="PASS" signature="init()[pri:0, instance:session5TestNG.Test1@59e5ddf]" name="init" is-config="true" duration-ms="2793" started-at="2021-11-29T00:28:46 CST" finished-at="2021-11-29T00:28:49 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method status="PASS" signature="dataenter()[pri:0, instance:session5TestNG.Test1@59e5ddf]" name="dataenter" duration-ms="41" started-at="2021-11-29T00:28:49 CST" finished-at="2021-11-29T00:28:49 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dataenter -->
+      </class> <!-- session5TestNG.Test1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
